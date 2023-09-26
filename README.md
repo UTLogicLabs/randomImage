@@ -4,6 +4,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+A random image generator based upon [Lorem Picsum](https://picsum.photos/).
 
 ## Features
 
