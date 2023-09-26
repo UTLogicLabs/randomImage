@@ -12,7 +12,7 @@
   * Just add the image size you want
     * e.g. `.../200/300` will return a 200x300 image
   * Specify a category of image,
-    * e.g. `picsum.photos/200/300?category=nature` will return a 200x300 nature image.
+    * e.g. `.../200/300?category=nature` will return a 200x300 nature image.
 
 ## Tech Stack
 
