@@ -1,14 +1,10 @@
 const express = require('express');
 const imageRouter = require('./routes/image.routes')
-// const sharp = require('sharp');
 
 const PORT = process.env.PORT || 4000;
 
 const app = express();
 
-const getRandomImage = () => {
-  return './images/software-developer.jpg'
-}
 
 app.use('/image', imageRouter)
 
